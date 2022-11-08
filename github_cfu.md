@@ -1,0 +1,3 @@
+- git clone will copy the repository to my local devide
+- git push will copy my corrections/commmits to the repository on github
+- vs code is the only way to make these edits from the local devide to github
